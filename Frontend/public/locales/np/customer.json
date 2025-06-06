@@ -1,0 +1,103 @@
+{
+    "Login":{
+       "enterFullName": "आफ्नो पूरा नाम लेख्नुहोस्",
+       "enterMobileNumber": "आफ्नो मोबाइल नम्बर लेख्नुहोस्",
+        "welcomeTo": "{title} मा स्वागत छ",
+        "letsGo": "चलाैं",
+        "skip": "छोड्नुहोस्"
+    }
+    ,"myprofile":{
+        "orderNotification": "अर्डर सूचना",
+        "buttonClickSound": "बटन क्लिक ध्वनि",
+        "backToMenu": "मेनुमा फर्कनुहोस्"
+    },
+    "home":{
+        "all": "सबै",
+        "searchFood": "आफ्नो खाना खोज्नुहोस्",
+        "select": "छान्नुहोस्",
+        "qty": "परिमाण",
+        "selectSize": "साइज छान्नुहोस्",
+        "total": "जम्मा",
+        "specialInstruction": "विशेष निर्देशन",
+        "cancel": "रद्द गर्नुहोस्",
+        "submit": "पेश गर्नुहोस्",
+        "notifications": "सूचनाहरू",
+        "noNotification": "अहिलेसम्म कुनै सूचना छैन",
+        "myProfile": "मेरो प्रोफाइल",
+        "currentOrders": "हालको अर्डरहरू",
+        "orderedHistory": "अर्डर इतिहास",
+        "logout": "लग आउट",
+        "tableAlreadyOrdered": "यो टेबलमा पहिले नै अर्डर गरिएको छ। कृपया लगआउट गर्नु अघि बिल सेटल गर्नुहोस्।",
+        "sorry": "माफ गर्नुहोस्!",
+        "yesLogout": "हो, लगआउट गर्नुहोस्",
+        "confirmLogout": "के तपाईं पक्का लगआउट गर्न चाहनुहुन्छ?",
+
+        "orderAccepted": "तपाईंको अर्डर {{title}} स्वीकार गरिएको छ।",
+        "orderReady": "तपाईंको अर्डर {{title}} लिन तयार छ।",
+        "orderPending": "तपाईंको अर्डर {{title}} अझै प्रतीक्षारत छ।",
+        "orderFinished": "तपाईंको अर्डर {{title}} समाप्त गरिएको छ।"
+    },
+    "bag":{
+        "back": "पछाडि फर्कनुहोस्",
+        "orderCard": "अर्डर कार्ड",
+        "orderNow": "अहिले अर्डर गर्नुहोस्",
+        "confirmDelete": "हटाउन निश्चित गर्नुहोस्",
+        "confirmDeleteText": "के तपाईं यो वस्तु हटाउन निश्चित हुनुहुन्छ?",
+        "cancel": "रद्द गर्नुहोस्",
+        "delete": "हटाउनुहोस्",
+        "instruction": "निर्देशन",
+        "save": "सेभ गर्नुहोस्"
+        ,"totalAmount": "जम्मा रकम",
+        "confirmOrderTitle": "तपाईंको अर्डर सुनिश्चित गर्नुहोस्",
+        "confirmOrderMessage": "के तपाईं यो अर्डर गर्न निश्चित हुनुहुन्छ?",
+        "confirm": "पुष्टि गर्नुहोस्",
+        "success": "सफलता",
+        "orderPlacedMessage": "तपाईंको अर्डर सफलतापूर्वक राखियो। तयार भएपछि हामी तपाईंलाई सूचित गर्नेछौं!",
+        "done": "सम्पन्न",
+        "no_items_in_cart": "कार्टमा कुनै वस्तुहरू छैनन्"
+    }, 
+    "bill":{
+        "yourTotalOrders": "तपाईंका कुल अर्डरहरू",
+        "currency": "रु",
+        "newOrder": "नयाँ अर्डर",
+        "paid": "भुक्तानी गरिएको",
+        "items": "वस्तुहरू",
+        "orderDetails": "अर्डर विवरण"
+    },
+    "orderhistry":{
+        "sn": "क्र.सं.",
+        "orderHistory": "अर्डर इतिहास",
+        "searchByTableName": "टेबल नामबाट खोज्नुहोस्",
+        "today": "आज",
+        "thisWeek": "यो हप्ता",
+        "thisMonth": "यो महिना",
+        "custom": "अनुकूल",
+        "tableName": "टेबल नाम",
+        "items": "वस्तुहरू",
+        "subTotal": "जम्मा",
+        "discountPercentage": "छुट प्रतिशत",
+        "discountAmount": "छुट रकम",
+        "totalAmount": "कुल रकम",
+        "paymentType": "भुक्तानी प्रकार",
+        "date": "मिति",
+        "action": "कार्य",
+        "selectCustomDateRange": "अनुकूल मिति दायरा चयन गर्नुहोस्",
+        "startDate": "सुरुआत मिति",
+        "endDate": "अन्त्य मिति",
+        "apply": "लागू गर्नुहोस्",
+        "close": "बन्द गर्नुहोस्",
+        "size": "साइज",
+        "qty": "परिमाण",
+        "rate": "दर",
+        "price": "मूल्य",
+        "printInvoice": "इनभोइस प्रिन्ट गर्नुहोस्",
+        "printAll": "सबै प्रिन्ट गर्नुहोस्",
+        "back": "पछाडि फर्कनुहोस्",
+         "noSalesFound": "बिक्री फेला परेन।",
+         "invoice": "इनभ्वाइस",
+        "invoiceDate": "इनभ्वाइस मिति",
+        "vat": "मूल्य अभिवृद्धि कर",
+        "thankYouMessage": "हामीसँग भोजन गर्नुभएकोमा धन्यवाद!"
+        
+    }
+}

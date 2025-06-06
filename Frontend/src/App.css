@@ -1,0 +1,18 @@
+/* Custom scrollbar for the Landing page */
+main::-webkit-scrollbar {
+    width: 8px; /* Set scrollbar width */
+  }
+  
+  main::-webkit-scrollbar-track {
+    background: #888; /* Light gray background for the track */
+  }
+  
+  main::-webkit-scrollbar-thumb {
+    background: #f1f1f1; /* Darker thumb for the scrollbar */
+    border-radius: 2px; /* Rounded corners for thumb */
+  }
+  
+  main::-webkit-scrollbar-thumb:hover {
+    background: #555; /* Slightly darker thumb on hover */
+  }
+  
