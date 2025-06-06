@@ -1,6 +1,6 @@
 import Category from '../../../model/admin/menu/Category.js'; // Adjust the import path accordingly
 import { io } from '../../../server.js';
-import Products from "../../../model/Admin/Menu/Products.js"; // Adjust the import path accordingly
+import Products from "../../../model/admin/menu/Products.js"; // Adjust the import path accordingly
 
 // Helper function to fetch category by AdminId
 const findCategoryByAdminId = async (AdminId) => {
