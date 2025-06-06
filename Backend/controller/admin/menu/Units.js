@@ -1,6 +1,6 @@
 import Units from '../../../model/admin/menu/Units.js'; // Adjust the import path accordingly
 import { io } from '../../../server.js';
-import Products from "../../../model/Admin/Menu/Products.js"; // Adjust the import path accordingly
+import Products from "../../../model/admin/menu/Products.js"; // Adjust the import path accordingly
 // Helper function to fetch units by AdminId
 const findUnitsByAdminId = async (AdminId) => {
     return await Units.findOne({ AdminId });
